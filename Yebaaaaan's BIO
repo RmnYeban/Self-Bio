@@ -1,0 +1,22 @@
+//Self-Biography
+#include<iostream>
+using namespace std;
+int main() 
+{
+cout<<"Hi! My name is Ramon Christian Yeban.
+As you can see from my bio, I am currently a 2nd year student taking up ECE as a major in Engineering in UST.
+I live in Miguelin St. in Sampaloc, Manila; 15 minutes of a walk from my college.
+My hobbies are playing games and listening to music
+As for my preferences, i'm more of the kind that prefers horror as favorite genre especially when it comes to movies and mostly games in general.
+In reality, I am the type of guy that appears to be reserved on the outside but once I think that I am comfortable talking to a particular person,
+i become more friendly with them.
+Even if I am admittedly shy in real life, I try to make up for it by joining student organizations in UST like NECES.
+I am part of the Logistics team in NECES because I heard that's where most people become close with their orgmates and form connections.
+Recently, ever since I recently bought an arduino kit, I've been trying to do different kinds of arduino projects I find on the Internet.
+The ones that I have tried can be found in my other repositories.
+I'm not proficient in terms of arduino programming yet but I try to understand the code that I've obtained.
+I am currently single. DI AKO MARUNONG MAMBABAE OKAY
+I am desperate to paricipate in the #HuntForPaskuhanDate2019 :D"; \n
+
+return 0;
+}
